@@ -37,4 +37,9 @@ Se deben utilizar las herramientas de GitHub para organizar el proyecto y colabo
 
 * **Commits**: Es fundamental que los commits sean frecuentes y contengan ✨mensajes claros✨ y descriptivos que expliquen los cambios realizados.
 
-* **Documentación**: El proyecto debe contener un `README` que explique cómo ejecutar la aplicación y qué funcionalidades ofrece.
+
+* **Documentación**: el repositorio debe incluir un archivo `README.md` con:
+
+    * Descripción del proyecto.
+    * Pasos para ejecutarlo.
+    * Lista de funcionalidades implementadas.
